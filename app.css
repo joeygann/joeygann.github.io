@@ -1,0 +1,15 @@
+img {
+    text-align:left;
+}
+header {
+    background: url('images/headerimage.jpg');
+    background-size: cover;
+    text-align: center;
+}
+body {
+    background-color: grey;
+}
+li {
+    display: inline;
+    padding: 10px;
+}
